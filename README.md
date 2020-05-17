@@ -1,1 +1,1 @@
-# Data-Structures-Assignments
+# Data-Structures-Course-Assignments
