@@ -1,10 +1,10 @@
 /*
 Declaration : Since I was preparing for internship interviews in which tree is a major topic most of the functions of tree to be implemented were
-already known to me.All the below functions have been written on the basis of that preparation which may by-chance resemble from some online sources
+already known to me.All the below functions have been written on the basis of that preparation which may by-chance resemble to some online sources
 from which I prepared.Though still I could not get them correct in first go,so the debugging statements I used have been included in comments which
-shows the  Genuity of the code.Also I have tried to use appropriate names for most variables and functions in camelCase. 
-
+shows the  Genuiness of the code.Also I have tried to use appropriate names for most variables and functions in camelCase. 
 */
+
 #include<stdio.h>
 #include<stdlib.h>
 
